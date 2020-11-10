@@ -1,4 +1,4 @@
-package Day2_printStatements;
+package Day2_PrintStatements;
 
 public class HelloWord {
     public static void main(String[] args) {
